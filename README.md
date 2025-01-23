@@ -42,7 +42,7 @@ Hi! I am a skilled Python back-end developer with experience in building and mai
   <a href="https://github.com/arazaminai">
     <img align="center"
          height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arazaminai&theme=aura&utcOffset=8"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arazaminai&theme=aura&utcOffset=2"
     />
 </p>
 
